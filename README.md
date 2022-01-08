@@ -1,1 +1,2 @@
-# weather-app
+# Weather-app
+ weather app using html, css and javascript.
